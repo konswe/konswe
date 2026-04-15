@@ -1,4 +1,4 @@
-# Hi, I'm Konstantyn Wenek 👋
+# Hi, I'm Konstantyn Wenek
 
 I am a Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)** and an incoming **Junior eDiscovery & Digital Forensics Specialist**.
 
