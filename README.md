@@ -6,7 +6,7 @@ Currently working as an **Application Engineer**, I have a strong foundation in 
 
 ---
 
-### 🛠 Technical Stack
+### Technical Stack
 
 * **Data Engineering & Databases:** PostgreSQL, MSSQL, Apache NiFi, Superset
 * **Infrastructure & Security:** Linux/Windows Server, Zabbix, Wazuh
@@ -14,7 +14,7 @@ Currently working as an **Application Engineer**, I have a strong foundation in 
 
 ---
 
-### 🔭 Highlighted Experience & Projects
+### Highlighted Experience & Projects
 
 **Real-Time Data Warehouse**
 Designed and implemented a data warehouse solution updated in near real-time. 
@@ -26,7 +26,7 @@ Designed and implemented a data warehouse solution updated in near real-time.
 
 ---
 
-### 📫 Contact
+### Contact
 
 * **LinkedIn:** [Konstantyn Wenek](https://www.linkedin.com/in/konstantyn-wenek-8a89a51a8/)
 * **Email:** konstantyn.wenek2@gmail.com
