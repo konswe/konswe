@@ -1,8 +1,8 @@
 # Hi, I'm Konstantyn Wenek
 
-I am a Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)** and an incoming **Junior eDiscovery & Digital Forensics Specialist**.
+I am a Computer Science student at the **Polish-Japanese Academy of Information Technology (PJATK)** and **Junior eDiscovery & Digital Forensics Specialist at QUESTA sp. z o.o.**.
 
-Currently working as an **Application Engineer**, I have a strong foundation in building data pipelines, server administration, and security monitoring. I enjoy solving complex problems and learning new technologies, and I am now pivoting my career toward digital forensics.
+I have a strong foundation in building data pipelines, server administration, and security monitoring. I enjoy solving complex problems and learning new technologies, and I am now pivoting my career toward digital forensics.
 
 ---
 
